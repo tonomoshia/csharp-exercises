@@ -16,7 +16,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradebookDict", "GradebookD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradebookArray", "GradebookArray\GradebookArray.csproj", "{89051A0E-8D18-48C3-B4E6-D05F62D252CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{BA4383E9-2C12-4A3A-9A56-A6BE059D065C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{BA4383E9-2C12-4A3A-9A56-A6BE059D065C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area", "Area\Area.csproj", "{B3A6878D-A214-428A-92A7-69885B4B6480}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -56,6 +58,10 @@ Global
 		{BA4383E9-2C12-4A3A-9A56-A6BE059D065C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA4383E9-2C12-4A3A-9A56-A6BE059D065C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA4383E9-2C12-4A3A-9A56-A6BE059D065C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3A6878D-A214-428A-92A7-69885B4B6480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3A6878D-A214-428A-92A7-69885B4B6480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3A6878D-A214-428A-92A7-69885B4B6480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3A6878D-A214-428A-92A7-69885B4B6480}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
