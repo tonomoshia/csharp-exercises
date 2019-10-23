@@ -20,6 +20,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area", "Area\Area.csproj", "{B3A6878D-A214-428A-92A7-69885B4B6480}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleArea", "RectangleArea\RectangleArea.csproj", "{CE9098A3-D077-4FA3-A6F4-E42DBA74D69E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +64,10 @@ Global
 		{B3A6878D-A214-428A-92A7-69885B4B6480}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3A6878D-A214-428A-92A7-69885B4B6480}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3A6878D-A214-428A-92A7-69885B4B6480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE9098A3-D077-4FA3-A6F4-E42DBA74D69E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE9098A3-D077-4FA3-A6F4-E42DBA74D69E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE9098A3-D077-4FA3-A6F4-E42DBA74D69E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE9098A3-D077-4FA3-A6F4-E42DBA74D69E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
