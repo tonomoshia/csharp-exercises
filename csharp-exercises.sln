@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area", "Area\Area.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleArea", "RectangleArea\RectangleArea.csproj", "{CE9098A3-D077-4FA3-A6F4-E42DBA74D69E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilesPerGallon", "MilesPerGallon\MilesPerGallon.csproj", "{36AABCC0-5D62-4B4E-8EC4-21844AD410F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -68,6 +70,10 @@ Global
 		{CE9098A3-D077-4FA3-A6F4-E42DBA74D69E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE9098A3-D077-4FA3-A6F4-E42DBA74D69E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE9098A3-D077-4FA3-A6F4-E42DBA74D69E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36AABCC0-5D62-4B4E-8EC4-21844AD410F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36AABCC0-5D62-4B4E-8EC4-21844AD410F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36AABCC0-5D62-4B4E-8EC4-21844AD410F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36AABCC0-5D62-4B4E-8EC4-21844AD410F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
