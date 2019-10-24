@@ -6,7 +6,7 @@ namespace Decisions
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("My Big Giveaway");
+            /*Console.WriteLine("My Big Giveaway");
             Console.WriteLine("Choose a door: 1, 2 or 3: ");
             string userValue = Console.ReadLine();
 
@@ -25,6 +25,17 @@ namespace Decisions
                 message += "You Lose.";
             }
             Console.WriteLine(message);
+            Console.ReadLine();*/
+
+            Console.WriteLine("My Big Giveaway");
+            Console.WriteLine("Choose a door: 1, 2 or 3: ");
+            string userValue = Console.ReadLine();
+
+            string message = (userValue == "1") ? "boat" : "strand of lint";
+
+            Console.Write("You won a ");
+            Console.Write(message);
+            Console.Write(".");
             Console.ReadLine();
         }
     }
