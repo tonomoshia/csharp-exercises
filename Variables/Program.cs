@@ -16,9 +16,6 @@ namespace Variables
             Console.ReadLine();
 
             Console.WriteLine("Hello World!");
-
-
-
         }
     }
 }
