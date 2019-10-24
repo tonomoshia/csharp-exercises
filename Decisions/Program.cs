@@ -33,9 +33,12 @@ namespace Decisions
 
             string message = (userValue == "1") ? "boat" : "strand of lint";
 
-            Console.Write("You won a ");
-            Console.Write(message);
-            Console.Write(".");
+            //Console.Write("You won a ");
+            //Console.Write(message);
+            //Console.Write(".");
+            //Console.ReadLine();
+
+            Console.WriteLine("You won a {0}.", message);
             Console.ReadLine();
         }
     }
