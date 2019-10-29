@@ -34,7 +34,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountingCharacters", "Count
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForIteration", "ForIteration\ForIteration.csproj", "{ED2EBC3A-3FF4-406C-BE4D-6E13FAA69992}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithStrings", "WorkingWithStrings\WorkingWithStrings.csproj", "{81A5D397-4A36-4BE9-A325-985A47020C10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithStrings", "WorkingWithStrings\WorkingWithStrings.csproj", "{81A5D397-4A36-4BE9-A325-985A47020C10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingArrays", "UnderstandingArrays\UnderstandingArrays.csproj", "{82475673-3A2D-4CF7-BA7E-033DA4040C79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -110,6 +112,10 @@ Global
 		{81A5D397-4A36-4BE9-A325-985A47020C10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81A5D397-4A36-4BE9-A325-985A47020C10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81A5D397-4A36-4BE9-A325-985A47020C10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82475673-3A2D-4CF7-BA7E-033DA4040C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82475673-3A2D-4CF7-BA7E-033DA4040C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82475673-3A2D-4CF7-BA7E-033DA4040C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82475673-3A2D-4CF7-BA7E-033DA4040C79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
