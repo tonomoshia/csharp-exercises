@@ -60,7 +60,7 @@ namespace UnderstandingArrays
             //}
             //Console.ReadLine();
 
-            //reversing a string by taking a string and converting it to an array of individual characters. 
+            //reversing a string by taking a string and converting it to an array of individual characters.
             //Then we reverse the order of the characters in the array.
 
             string zig = "You can get what you want out of life " +
@@ -68,8 +68,7 @@ namespace UnderstandingArrays
 
             char[] charArray = zig.ToCharArray(); //built in helper method that splits string into characters]
             Array.Reverse(charArray);
-            
-            foreach (char  zigChar in charArray)
+            foreach (char zigChar in charArray)
             {
                 Console.Write(zigChar);
             }
