@@ -2,27 +2,22 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Quiz
+namespace Question
 {
     public class Question
     {
         public string question;
+        public int score;
 
-        public static addQuestion(q);
-    }
-    // Multiple Choice: a question with a fixed set of possible answers, of which only one may be chosen and only one answer is correct
-    public class MultipleChoiceQuestion : Question
-    {
+        public Question(string question)
+        {
+            this.question = question;
+        }
 
-    }
-    // Checkbox: a question with a fixed set of possible answers, of which any number may be chosen; there is one correct combination of choices
-    public class CheckboxQuestion : Question
-    {
-
-    }
-    // True?false: a question that has a true/false answer
-    public class TrueFalseQuestion : Question
-    {
-        readonly bool answer;
+        public Question(string question, int score) : this(question)
+        {
+            this.score = score;
+        }
+        public abstract int runQuestion();
     }
 }

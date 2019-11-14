@@ -6,5 +6,6 @@ namespace QuizStudio
 {
     class MultipleChoiceQuestion
     {
+
     }
 }
