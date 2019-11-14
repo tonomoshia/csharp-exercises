@@ -36,7 +36,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForIteration", "ForIteratio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithStrings", "WorkingWithStrings\WorkingWithStrings.csproj", "{81A5D397-4A36-4BE9-A325-985A47020C10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingArrays", "UnderstandingArrays\UnderstandingArrays.csproj", "{82475673-3A2D-4CF7-BA7E-033DA4040C79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnderstandingArrays", "UnderstandingArrays\UnderstandingArrays.csproj", "{82475673-3A2D-4CF7-BA7E-033DA4040C79}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Restaurant", "Restaurant\Restaurant.csproj", "{5B738918-AEAA-4F5E-9FAC-21FEF60D2DD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizStudio", "QuizStudio\QuizStudio.csproj", "{665F62FE-3918-4726-9B26-A492684693BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -116,6 +120,14 @@ Global
 		{82475673-3A2D-4CF7-BA7E-033DA4040C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82475673-3A2D-4CF7-BA7E-033DA4040C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82475673-3A2D-4CF7-BA7E-033DA4040C79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B738918-AEAA-4F5E-9FAC-21FEF60D2DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B738918-AEAA-4F5E-9FAC-21FEF60D2DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B738918-AEAA-4F5E-9FAC-21FEF60D2DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B738918-AEAA-4F5E-9FAC-21FEF60D2DD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{665F62FE-3918-4726-9B26-A492684693BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{665F62FE-3918-4726-9B26-A492684693BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{665F62FE-3918-4726-9B26-A492684693BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{665F62FE-3918-4726-9B26-A492684693BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
